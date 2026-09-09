@@ -1,0 +1,1 @@
+- [Skool Map product tone](skool-map-product-tone.md) — public map should feel like open-source civic infrastructure; private Radar is evidence-led and non-salesy.
